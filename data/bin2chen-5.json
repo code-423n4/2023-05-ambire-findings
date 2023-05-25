@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "execute() replay RECOVER after cancel",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/5"
+}
