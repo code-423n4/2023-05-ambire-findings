@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "recovery mode missing anti-bricking mechanism",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/6"
+}
