@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "The anti-bricking mechanism only applies to the normal mode, but not the recovery mode",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/32"
+}
