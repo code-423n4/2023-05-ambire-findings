@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Callee can intentionally make caller spend more gas than specified in `tryCatchLimit()`",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/15"
+}
