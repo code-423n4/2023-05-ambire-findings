@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Low level calls to accounts with no code succeed in AmbireAccount",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/13"
+}
