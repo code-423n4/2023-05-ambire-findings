@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "`AmbireAccount.supportsInterface` function breaks EIP-721 specification for supporting `ERC721TokenReceiver` for a wallet application that accepts safe transfers of ERC721 tokens",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/25"
+}
