@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "It is possible that recovery transaction cannot be performed even if signer still controls address that is an address of `recoveryInfo.keys`",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/24"
+}
