@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "EIP-712 signatures are not properly implemented",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/22"
+}
