@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "AmbireAccount should provide a function to allow to cancel current nonce",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/14"
+}
