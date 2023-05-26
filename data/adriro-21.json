@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Fallback handlers can trick users into calling functions of the AmbireAccount contract",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/21"
+}
