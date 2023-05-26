@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "Requirement for having timelocks on recovery transactions is not enforceable",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/23"
+}
