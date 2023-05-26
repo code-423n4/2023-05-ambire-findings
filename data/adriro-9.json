@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "Factory can potentially brick accounts that deploy a initcode that returns empty",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/9"
+}
