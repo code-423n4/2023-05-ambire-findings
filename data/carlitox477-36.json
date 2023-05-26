@@ -1,0 +1,8 @@
+{
+  "contest": 243,
+  "handle": "carlitox477",
+  "risk": "2",
+  "title": "Current implementation of `recoverAddrImpl` for `mode == SignatureMode.EIP712 || mode == SignatureMode.EthSign` does not check that `s` in order to avoid signature replay attacks",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2023-05-ambire-findings/issues/36"
+}
